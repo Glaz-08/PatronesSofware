@@ -10,6 +10,8 @@ paso 2: javac *.java
 
 paso 3: java Main "Nealy, Scot" "Jame Ling" "Naton, Pat" 
 
+(cd -) para devolverse
+
 NombreFactory: es la clase abstracta que define el metodo crearNombre que es implementado por sus subclases.
 
 clase Nombre: es la cual tiene los nombres y apellidos.

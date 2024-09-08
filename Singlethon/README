@@ -1,0 +1,10 @@
+Manuel Jerez (ICCI)
+tarea singlethon/patrones de software
+
+ejecucion del codigo:
+
+paso 1: cd Singlethon
+
+paso2: javac Incremental.java TestIncremental.java
+
+paso 3: java TestIncremental
